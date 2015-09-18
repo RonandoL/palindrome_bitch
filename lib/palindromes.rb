@@ -4,9 +4,9 @@ class String
     backwards = self.reverse
 
     if word == backwards
-      true
+      "You betchyo ass it a pal-in-drome...mthafucka!"
     else
-      false
+      "Git that shit outta here, bitch! It ain't no got. Damn. Palindrome...\nBitch!"
     end
   end
 end
